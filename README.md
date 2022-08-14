@@ -1,1 +1,1 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krzysztofgal&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/krzysztofgal/krzysztofgal)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krzysztofgal&count_private=true&show_icons=true)](https://github.com/krzysztofgal/krzysztofgal)
